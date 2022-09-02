@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(212, 237, 237);
+}
+
+p.double {border-style: double;
+    border-color:rgb(65, 4, 4)}
+
+    h1 {
+        font-size:60px;
+         background-color:rgb(93, 93, 4);
+         color:yellow;
+    }
+address {
+    background-color:rgb(212, 237, 237);
+    font-size:20px;
+}
